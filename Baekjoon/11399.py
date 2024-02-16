@@ -1,4 +1,4 @@
-# ATM_그리드
+# ATM_그리디
 N = int(input())
 people = list(map(int, input().split()))
 people = sorted(people)
